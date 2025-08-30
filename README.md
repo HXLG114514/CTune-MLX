@@ -1,4 +1,4 @@
-# CTune-MLX
+# HaHui-model
 
 ## 介绍
 
