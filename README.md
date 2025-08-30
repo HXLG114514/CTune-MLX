@@ -102,5 +102,10 @@ python llama.cpp/convert_hf_to_gguf.py ./model_new --outfile model_new.gguf --ou
 .\llama-tools\llama-quantize.exe coder5_mini_f16.gguf coder5_mini_q5_1.gguf q5_1
 ```
 
+## Beta-要在 Linux 上安装 CUDA 后端，请运行：
+```bash
+pip install mlx[cuda]
+```
+
 ## 许可证
 参考项目中的许可证文件,按照许可证在商用等领域请注意!
