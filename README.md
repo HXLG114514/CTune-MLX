@@ -4,7 +4,7 @@
 
 
 
-这个项目用于对mlx训练模型的简单方法,他解决了在Apple Silicon上面无法使用unsloth的问题,并且生成出来的``model_new``通用自动实现了格式转换！
+HaHui盒的诞生
 
 ## 环境
 
